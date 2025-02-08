@@ -17,8 +17,10 @@ scrapy genspider example example.com
 # Crear el proyecto Scrapy
 touch app.py
 
-
 pip install scrapy_splash
+pip install flask
+pip install flask_cors
+pip install fastapi
 
 # Ejecutar scrawl manualmente
 
@@ -28,3 +30,9 @@ scrapy crawl mi_spider
 
 pip install scrapy-playwright
 playwright install
+
+run api
+cd mi_proyecto/
+python app.py
+
+scrapy crawl cinecalidad2 -a movie_name="Sonic"

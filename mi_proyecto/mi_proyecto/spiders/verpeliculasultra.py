@@ -2,7 +2,7 @@ import scrapy
 import json
 
 class MiSpider2(scrapy.Spider):
-    name = 'mi_spider_pelishd'
+    name = 'verpeliculasultra'
     start_urls = ['https://verpeliculasultra.com/']
 
     def __init__(self, *args, **kwargs):
@@ -33,12 +33,12 @@ class MiSpider2(scrapy.Spider):
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
         spider = super(MiSpider2, cls).from_crawler(crawler, *args, **kwargs)
-        with open('mi_proyecto/results/mi_spider_pelishd.json', 'w') as f:
+        with open('mi_proyecto/results/verpeliculasultra.json', 'w') as f:
             f.truncate(0)
         return spider
 
     async def parse(self, response):
-        productos = response.css('div.shortf-img a')
+        productos = response.css('div.shortf')
         web_title = response.css('title::text').get()
         print(f"web_title: {web_title}")
 
@@ -46,9 +46,14 @@ class MiSpider2(scrapy.Spider):
         for producto in productos:
             if counter >= 2:  # Solo procesar hasta el tercer producto
                 break
-            
+            counter += 1 
+
+            title = producto.css('a::attr(title)').get()
             link = producto.css('a::attr(href)').get()
             img = producto.css('img::attr(src)').get()
+            if img.startswith('/'):
+                img = 'https://verpeliculasultra.com' + img
+
             if link:
                 yield response.follow(
                     link,
@@ -64,10 +69,9 @@ class MiSpider2(scrapy.Spider):
                     "playwright_page_goto_kwargs": {
                         "wait_until": "domcontentloaded",
                     },
-                      'link': link, 'img': img}
+                    'title': title,  'link': link, 'img': img}
                 )
-            # Incrementar el contador
-            counter += 1
+            
 
 
     async def parse_movie(self, response):
@@ -86,9 +90,6 @@ class MiSpider2(scrapy.Spider):
                 print(":🔗 options", option , end="\n\n")
                 await playwright_page.evaluate('document.querySelector("ul.tabs-sidebar-ul li a").click()')
                 print("🎬 Esperando play-btn...")
-               
-
-
             
             await playwright_page.wait_for_selector("div.play-btn", timeout=10000)
             # Hacer clic en todos los botones "play-btn"
@@ -106,17 +107,11 @@ class MiSpider2(scrapy.Spider):
 
             # Guardar información de la película
             self.movie_data.append({
-                "title": response.css("h1::text").get(),
+                "title": response.meta.get("title"),
                 "link": response.meta.get("link"),
                 "img": response.meta.get("img"),
                 "movie_link": iframe_urls
             })
-            yield {
-                "title": response.css("h1::text").get(),
-                "link": response.meta.get("link"),
-                "img": response.meta.get("img"),
-                "movie_link": iframe_urls
-            }
         except Exception as e:
             self.logger.error(f"🚨 Error al hacer clic en el play-btn: {e}")
 
@@ -125,8 +120,8 @@ class MiSpider2(scrapy.Spider):
 
     def closed(self, reason):
         try:
-            with open('mi_proyecto/results/mi_spider_pelishd.json', 'w', encoding='utf-8') as f:
+            with open('mi_proyecto/results/verpeliculasultra.json', 'w', encoding='utf-8') as f:
                 json.dump(self.movie_data, f, ensure_ascii=False, indent=4)
-            print("Datos guardados correctamente en 'mi_proyecto/results/mi_spider_pelishd.json'")
+            print("Datos guardados correctamente en 'mi_proyecto/results/verpeliculasultra.json'")
         except Exception as e:
             print(f"Error al guardar el archivo JSON: {e}")

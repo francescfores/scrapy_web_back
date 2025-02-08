@@ -102,8 +102,8 @@ DOWNLOAD_HANDLERS = {
 
 
 PLAYWRIGHT_LAUNCH_OPTIONS = {
-   'headless': True,  # Modo interactivo
-   'slow_mo': 2000,  # Retardo para ver las interacciones
+   'headless': False,  # Modo interactivo
+   'slow_mo': 6000,  # Retardo para ver las interacciones
 }
 HTTPCACHE_ENABLED = False
 
