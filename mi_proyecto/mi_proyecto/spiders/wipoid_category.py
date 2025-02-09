@@ -7,8 +7,8 @@ from playwright_stealth import stealth_async  # ✅ Stealth corregido
 from pathlib import Path
 
 class MiSpider2(scrapy.Spider):
-    name = 'pccomponentes_category'
-    start_urls = ['https://www.pccomponentes.com/']
+    name = 'wipoid_category'
+    start_urls = ['https://wipoid.com/']
     current_page = 1
 
     custom_settings = {
@@ -28,13 +28,19 @@ class MiSpider2(scrapy.Spider):
         self.movie_data = []
         self.movie_name = kwargs.get('movie_name', '')
         self.category = kwargs.get('category', '')
+        self.subcategory = kwargs.get('subcategory', '')
+        self.supercategory = kwargs.get('supercategory', '')
 
     def start_requests(self):
         for url in self.start_urls:
             if self.movie_name:
-                url = f"https://www.pccomponentes.com/search/?query={self.movie_name}"
-            if self.category:
-                url = f"https://www.pccomponentes.com/{self.category}"
+                url = f"https://wipoid.com/search/?query={self.movie_name}"
+            elif self.supercategory:
+                url = f"https://wipoid.com/{self.category}/{self.subcategory}/{self.supercategory}"
+            elif self.subcategory:
+                url = f"https://wipoid.com/{self.category}/{self.subcategory}"
+            elif self.category:
+                url = f"https://wipoid.com/{self.category}"
                 
             yield scrapy.Request(
                 url,
@@ -82,21 +88,20 @@ class MiSpider2(scrapy.Spider):
         playwright_page = response.meta["playwright_page"]
         pages = None
         # Obtener los productos
-        productos = response.css('div#category-list-product-grid a')
+        productos = response.css('div.leo-product-ajax div.ajax_block_product')
         print(f"🔹 Página {self.current_page}: {len(productos)} productos encontrados.")
 
         for producto in productos:
-            title = producto.css('h3.product-card__title::text').get()
+            title = producto.css('h3.product-title a::text').get()
             link = producto.css('a::attr(href)').get()
             img = producto.css('img::attr(src)').get()
-            price = producto.css('span[data-e2e="price-card"]::text').get()
-            price_decode = price.replace("\u20ac", "€")
+            price = producto.css('span.price::text').get()
             if link:
                 self.movie_data.append({
                     "title": title,
                     "link": link,
                     "img": img,
-                    "price": price_decode,
+                    "price": price,
                 })
 
         # Definir pages al principio para evitar problemas con la indentación
@@ -104,12 +109,17 @@ class MiSpider2(scrapy.Spider):
 
         # Imprimir el valor de 'pages' para depuración
         # Comprobar si el botón "Página siguiente" está visible
-        button = await playwright_page.query_selector('button[aria-label="Página siguiente"]')
+        button = await playwright_page.query_selector('a.next')
         is_visible = await button.is_visible() if button else False
 
         self.current_page += 1
-        next_page_url = f"https://www.pccomponentes.com/{self.category}?page={self.current_page}"
-
+        
+        if self.supercategory:
+            next_page_url = f"https://wipoid.com/{self.category}/{self.subcategory}/{self.supercategory}/?page={self.current_page}"
+        elif self.subcategory:
+            next_page_url = f"https://wipoid.com/{self.category}/{self.subcategory}/?page={self.current_page}"
+        elif self.category:
+            next_page_url = f"https://wipoid.com/{self.category}/?page={self.current_page}"
         # Verificar si se encontró el botón "Página siguiente"
         if is_visible:  # Si 'pages' no es None (es decir, el botón existe)
             yield scrapy.Request(
@@ -139,11 +149,17 @@ class MiSpider2(scrapy.Spider):
         await playwright_page.close()
 
     def closed(self, reason):
-        #directorio = Path(f"mi_proyecto/results/pccomponentes/{self.category}")
-        directorio = Path(f"mi_proyecto/results/pccomponentes")
+        #directorio = Path(f"mi_proyecto/results/wipoid/{self.category}")
+        directorio = Path(f"mi_proyecto/results/wipoid")
         directorio.mkdir(parents=True, exist_ok=True)  # `exist_ok=True` evita errores si ya existe
         print(f"Directorio '{directorio}' creado o ya existente.")
 
-        with open(f"mi_proyecto/results/pccomponentes/{self.category}.json", "w", encoding="utf-8") as f:
-            json.dump(self.movie_data, f, ensure_ascii=False, indent=4)
-        print("✅ Datos guardados correctamente.")
+        if self.supercategory:
+            with open(f"mi_proyecto/results/wipoid/{self.category}-{self.subcategory}-{self.supercategory}.json", "w", encoding="utf-8") as f:
+                json.dump(self.movie_data, f, ensure_ascii=False, indent=4)
+        elif self.subcategory:
+            with open(f"mi_proyecto/results/wipoid/{self.category}-{self.subcategory}.json", "w", encoding="utf-8") as f:
+                json.dump(self.movie_data, f, ensure_ascii=False, indent=4)
+        elif self.category:
+            with open(f"mi_proyecto/results/wipoid/{self.category}.json", "w", encoding="utf-8") as f:
+                json.dump(self.movie_data, f, ensure_ascii=False, indent=4)

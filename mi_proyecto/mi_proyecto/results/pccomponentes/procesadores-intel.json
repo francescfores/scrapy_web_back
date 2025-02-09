@@ -1,0 +1,818 @@
+[
+    {
+        "title": "Intel Core i5-14400F 2.5/4.7GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i5-14400f-25-47ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805166/1912-intel-core-i5-14400f-25-47ghz-box.jpg",
+        "price": "153,98€"
+    },
+    {
+        "title": "Intel Core i5-12400F 2.5 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-12400f-25-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834922/1636-intel-core-i5-12400f-44-ghz.jpg",
+        "price": "121,99€"
+    },
+    {
+        "title": "Intel Core i7-14700KF 3.4/5.6GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i7-14700kf-34-56ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779168/1549-intel-core-i7-14700kf-34-56ghz-box.jpg",
+        "price": "398,25€"
+    },
+    {
+        "title": "Intel Core i5-14600KF 3.5/5.4GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i5-14600kf-35-54ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779162/1579-intel-core-i5-14600kf-35-54ghz-box.jpg",
+        "price": "249,95€"
+    },
+    {
+        "title": "Intel Core i5-13400F 2.5 GHz/4.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-13400f-25-ghz-46-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644154/1324-intel-core-i5-13400f-25-ghz-46-ghz.jpg",
+        "price": "156,63€"
+    },
+    {
+        "title": "Intel Core i5-12400 2.5 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-12400-25-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834921/145-intel-core-i5-12400-44-ghz.jpg",
+        "price": "163,99€"
+    },
+    {
+        "title": "Intel Core i5-13400 2.5 GHz/4.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-13400-25-ghz-46-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644151/1940-intel-core-i5-13400-25-ghz-46-ghz.jpg",
+        "price": "173,99€"
+    },
+    {
+        "title": "Intel Core i9-14900K 3.2/6GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-14900k-32-6ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779177/1139-intel-core-i9-14900k-32-6ghz-box.jpg",
+        "price": "538,99€"
+    },
+    {
+        "title": "Intel Core i5-12600K 3.7 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-12600k-37-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/57/574297/1999-intel-core-i5-12600k-49-ghz.jpg",
+        "price": "183,99€"
+    },
+    {
+        "title": "Intel Core i7-14700K 3.4/5.6GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i7-14700k-34-56ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779171/1341-intel-core-i7-14700k-34-56ghz-box.jpg",
+        "price": "422,99€"
+    },
+    {
+        "title": "Intel Core i7-12700 2.1 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-12700-21-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834911/1372-intel-core-i7-12700-49-ghz.jpg",
+        "price": "314,99€"
+    },
+    {
+        "title": "Intel Core Ultra 7 265K 3.3/5.5GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-7-265k-33-55ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10860621/1628-intel-core-ultra-7-265k-33-55ghz-box.jpg",
+        "price": "462,99€"
+    },
+    {
+        "title": "Intel Core i3-12100 3.3 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-12100-33-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834924/1201-intel-core-i3-12100-43-ghz.jpg",
+        "price": "121,99€"
+    },
+    {
+        "title": "Intel Core Ultra 9 285K 3.2/5.7GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-9-285k-32-57ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10860620/1171-intel-core-ultra-9-285k-32-57ghz-box.jpg",
+        "price": "699€"
+    },
+    {
+        "title": "Intel Core i3-12100F 3.3 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-12100f-33-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834926/1558-intel-core-i3-12100f-43-ghz.jpg",
+        "price": "85,80€"
+    },
+    {
+        "title": "Intel Core i7-14700F 2.1/5.4GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i7-14700f-21-54ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805165/1206-intel-core-i7-14700f-21-54ghz-box.jpg",
+        "price": "349,94€"
+    },
+    {
+        "title": "Intel Core i7-14700 2.1/5.4GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i7-14700-21-54ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805160/1878-intel-core-i7-14700-21-54ghz-box.jpg",
+        "price": "371,99€"
+    },
+    {
+        "title": "Intel Core i9-14900KF 3.2/6GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-14900kf-32-6ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779174/1127-intel-core-i9-14900kf-32-6ghz-box.jpg",
+        "price": "509,99€"
+    },
+    {
+        "title": "Intel Core i7-12700K 3.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-12700k-36-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/57/574292/191-intel-core-i7-12700k-50-ghz.jpg",
+        "price": "284,99€"
+    },
+    {
+        "title": "Intel Core Ultra 5 245K 4.2/5.2GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-5-245k-42-52ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10860623/1373-intel-core-ultra-5-245k-36-52ghz-box.jpg",
+        "price": "350,33€"
+    },
+    {
+        "title": "Intel Core Ultra 5 245KF 4.2/5.2GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-5-245kf-42-52ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10860868/1121-intel-core-ultra-5-245kf-42-52ghz-box.jpg",
+        "price": "329,84€"
+    },
+    {
+        "title": "Intel Core i5-14400 2.5/4.7GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i5-14400-25-47ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805162/1226-intel-core-i5-14400-25-47ghz-box-comprar.jpg",
+        "price": "201,99€"
+    },
+    {
+        "title": "Intel Core i5-14600K 3.5/5.4GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i5-14600k-35-54ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779165/1486-intel-core-i5-14600k-35-54ghz-box.jpg",
+        "price": "285,18€"
+    },
+    {
+        "title": "Intel Core i7-12700KF 3.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-12700kf-36-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/57/574294/1716-intel-core-i7-12700kf-50-ghz.jpg",
+        "price": "268,58€"
+    },
+    {
+        "title": "Intel Core i9-14900KS 3.2/6.2GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-14900ks-32-62ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10820729/1846-intel-core-i9-14900ks-32-62ghz-box-comprar.jpg",
+        "price": "859€"
+    },
+    {
+        "title": "Intel Core Ultra 7 265KF 3.3/5.5GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-7-265kf-33-55ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10860622/1276-intel-core-ultra-7-265kf-33-55ghz-box.jpg",
+        "price": "449,99€"
+    },
+    {
+        "title": "Intel Core i9-12900K 3.2 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-12900k-32-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/57/574288/1444-intel-core-i9-12900k-52-ghz.jpg",
+        "price": "398,40€"
+    },
+    {
+        "title": "Intel Core i5-14500 2.6/5GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i5-14500-26-5ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805161/1338-intel-core-i5-14500-26-5ghz-box-comprar.jpg",
+        "price": "273,99€"
+    },
+    {
+        "title": "Intel Core i5-10400 2.90 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-10400-290-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287895/intel-core-i5-10400-290-ghz-comprar.jpg",
+        "price": "146,99€"
+    },
+    {
+        "title": "Intel Core i5-12600KF 3.7 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-12600kf-37-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/57/574298/187-intel-core-i5-12600kf-49-ghz.jpg",
+        "price": "169,99€"
+    },
+    {
+        "title": "Intel Core i7-13700K 3.4 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i7-13700k-34-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1057/10573126/1196-intel-core-i7-13700k-34-ghz-box.jpg",
+        "price": "399,95€"
+    },
+    {
+        "title": "Intel Core i9-13900 2 GHz/5.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-13900-2-ghz-56-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644142/1146-intel-core-i9-13900-2-ghz-56-ghz.jpg",
+        "price": "689€"
+    },
+    {
+        "title": "Intel Core i9-13900KF 3 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-13900kf-3-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1057/10573123/1579-intel-core-i9-13900kf-3-ghz-box.jpg",
+        "price": "491,66€"
+    },
+    {
+        "title": "Intel Core Ultra 5 235 3.4/5.0GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-5-235-34-50ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867604/121-intel-core-ultra-5-235-34-50ghz-box.jpg",
+        "price": "311,99€"
+    },
+    {
+        "title": "Intel Core i5-13500 2.5 GHz/4.8 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-13500-25-ghz-48-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644150/19-intel-core-i5-13500-25-ghz-48-ghz.jpg",
+        "price": "215,99€"
+    },
+    {
+        "title": "Intel Core i7-12700F 2.1 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-12700f-21-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834913/1203-intel-core-i7-12700f-49-ghz.jpg",
+        "price": "302,52€"
+    },
+    {
+        "title": "Intel Core i9-12900F 2.4 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-12900f-24-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834909/1971-intel-core-i9-12900f-51-ghz.jpg",
+        "price": "485,02€"
+    },
+    {
+        "title": "Intel Core i3-10100 3.60 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-10100-360-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287917/intel-core-i3-10100-360-ghz.jpg",
+        "price": "96,80€"
+    },
+    {
+        "title": "Intel Core i5-13600KF 3.5 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i5-13600kf-35-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1057/10573119/1303-intel-core-i5-13600kf-35-ghz-box.jpg",
+        "price": "290,59€"
+    },
+    {
+        "title": "Intel Core i7-13700 2.1 GHz/5.2 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-13700-21-ghz-52-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644144/128-intel-core-i7-13700-21-ghz-52-ghz.jpg",
+        "price": "370,99€"
+    },
+    {
+        "title": "Intel Core i7-13700F 2.1 GHz/5.2 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-13700f-21-ghz-52-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644147/1291-intel-core-i7-13700f-21-ghz-52-ghz-comprar.jpg",
+        "price": "342,99€"
+    },
+    {
+        "title": "Intel Core i9-12900KF 3.2 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-12900kf-32-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/57/574290/1840-intel-core-i9-12900kf-52-ghz.jpg",
+        "price": "371,95€"
+    },
+    {
+        "title": "Intel Core i9-13900F 2 GHz/5.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-13900f-2-ghz-56-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644158/1492-intel-core-i9-13900f-2-ghz-56-ghz.jpg",
+        "price": "469,98€"
+    },
+    {
+        "title": "Intel Celeron G5905 3.50GHz",
+        "link": "https://www.pccomponentes.com/intel-celeron-g5905-350ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/33/332627/1246-intel-celeron-g5905-350ghz.jpg",
+        "price": "49,99€"
+    },
+    {
+        "title": "Intel Core Ultra 5 225F 3.3/4.9GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-5-225f-33-49ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867606/1590-intel-core-ultra-5-225f-33-49ghz-box.jpg",
+        "price": "279,99€"
+    },
+    {
+        "title": "Intel Core i3-13100 3.4 GHz/4.5 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-13100-34-ghz-45-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644156/1675-intel-core-i3-13100-34-ghz-45-ghz.jpg",
+        "price": "150,01€"
+    },
+    {
+        "title": "Intel Core i3-14100 3.5/4.7GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i3-14100-35-47ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805163/1241-intel-core-i3-14100-25-47ghz-box.jpg",
+        "price": "142,04€"
+    },
+    {
+        "title": "Intel Core i3-14100F 3.5/4.7GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i3-14100f-35-47ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805167/1688-intel-core-i3-14100f-35-47ghz-box.jpg",
+        "price": "90,99€"
+    },
+    {
+        "title": "Intel Core i5-12600 3.3 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-12600-33-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834916/1454-intel-core-i5-12600-48-ghz.jpg",
+        "price": "262,08€"
+    },
+    {
+        "title": "Intel Core i5-13600K 3.5 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i5-13600k-35-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1057/10573130/1723-intel-core-i5-13600k-35-ghz-box.jpg",
+        "price": "299,32€"
+    },
+    {
+        "title": "Intel Core i7-13700KF 3.4 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i7-13700kf-34-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1057/10573129/1299-intel-core-i7-13700kf-34-ghz-box.jpg",
+        "price": "426,01€"
+    },
+    {
+        "title": "Intel Core i9-13900K 3 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-13900k-3-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1057/10573120/1643-intel-core-i9-13900k-3-ghz-box.jpg",
+        "price": "542,98€"
+    },
+    {
+        "title": "Intel Xeon Silver 4208 2.1GHz/3.2GHz para Servidores Dell PowerEdge/Precision",
+        "link": "https://www.pccomponentes.com/intel-xeon-silver-4208-21ghz-32ghz-para-servidores-dell-poweredge-precision",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1066/10660786/1289-intel-xeon-silver-4208-21ghz-32ghz-para-servidores-dell-poweredge-precision.jpg",
+        "price": "649€"
+    },
+    {
+        "title": "Intel Celeron G5925 3.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-celeron-g5925-36-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/35/355284/1823-intel-celeron-g5925-36-ghz.jpg",
+        "price": "80,06€"
+    },
+    {
+        "title": "Intel Core i3-10105 3.7 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-10105-37-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362385/1171-intel-core-i3-10105-37-ghz.jpg",
+        "price": "101,92€"
+    },
+    {
+        "title": "Intel Core i3-13100F 3.4 GHz/4.5 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-13100f-34-ghz-45-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10644157/1710-intel-core-i3-13100f-34-ghz-45-ghz.jpg",
+        "price": "89,99€"
+    },
+    {
+        "title": "Intel Core i5-10400F 2.90 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-10400f-290-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287898/intel-core-i5-10400f-290-ghz.jpg",
+        "price": "113,99€"
+    },
+    {
+        "title": "Intel Core i5-10600KF 4.10 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-10600kf-410-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287894/intel-core-i5-10600kf-410-ghz.jpg",
+        "price": "112,99€"
+    },
+    {
+        "title": "Intel Core i5-11400 2.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-11400-26-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362366/1598-intel-core-i5-11400-26-ghz.jpg",
+        "price": "168,32€"
+    },
+    {
+        "title": "Intel Core i7-11700K 3.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-11700k-36-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362354/123-intel-core-i7-11700k-35-ghz.jpg",
+        "price": "322,99€"
+    },
+    {
+        "title": "Intel Core i7-11700KF 3.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-11700kf-36-ghz?refurbished",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362370/1961-intel-core-i7-11700kf-36-ghz.jpg",
+        "price": "364,71€"
+    },
+    {
+        "title": "Intel Core i9-10900F 2.8 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-10900f-28-ghz?refurbished",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287902/intel-core-i9-10900f-28-ghz.jpg",
+        "price": "223,99€"
+    },
+    {
+        "title": "Intel Pentium Gold G6400 4 GHz",
+        "link": "https://www.pccomponentes.com/intel-pentium-gold-g6400-4-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287923/intel-pentium-gold-g6400-4-ghz.jpg",
+        "price": "66,99€"
+    },
+    {
+        "title": "Intel Pentium Gold G7400 3.7 GHz",
+        "link": "https://www.pccomponentes.com/intel-pentium-gold-g7400-37-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834928/1603-intel-pentium-gold-g7400-37-ghz.jpg",
+        "price": "104,96€"
+    },
+    {
+        "title": "Intel Core i3-10105F 3.7 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-10105f-37-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362387/1305-intel-core-i3-10105f-37-ghz.jpg",
+        "price": "73,99€"
+    },
+    {
+        "title": "Intel Core i5-10600K 4.10 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-10600k-410-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287893/intel-core-i5-10600k-410-ghz.jpg",
+        "price": "119,99€"
+    },
+    {
+        "title": "Intel Core i5-11400F 2.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-11400f-26-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362381/1851-intel-core-i5-11400f-26-ghz.jpg",
+        "price": "157,55€"
+    },
+    {
+        "title": "Dell Kit Intel Xeon Silver 4309Y para PowerEdge",
+        "link": "https://www.pccomponentes.com/dell-kit-intel-xeon-silver-4309y-para-poweredge",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1057/10572333/10-dell-kit-xeon-silver-4309y-para-poweredge.jpg",
+        "price": "955,47€"
+    },
+    {
+        "title": "HPE Intel Xeon Silver 4214 2.2 GHz",
+        "link": "https://www.pccomponentes.com/hpe-intel-xeon-silver-4214-22-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/41/419051/1964-hpe-intel-xeon-silver-4214-22-ghz.jpg",
+        "price": "1.697,71€"
+    },
+    {
+        "title": "HPE Kit Intel Xeon Gold 5218 2.3Ghz para HPE DI380 Gen10",
+        "link": "https://www.pccomponentes.com/hpe-kit-intel-xeon-gold-5218-23ghz-para-hpe-di380-gen10",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/38/387995/1415-hpe-kit-intel-xeon-gold-5218-23ghz-para-hpe-di380-gen10.jpg",
+        "price": "2.170,99€"
+    },
+    {
+        "title": "HPE Kit Intel Xeon-Silver 4215R 3.2 GHz para HPE ProLiant DL360 Gen10",
+        "link": "https://www.pccomponentes.com/hpe-kit-intel-xeon-silver-4215r-32-ghz-para-hpe-proliant-dl360-gen10",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/33/332259/195-hpe-kit-intel-xeon-silver-4215r-32-ghz-para-hpe-proliant-dl360-gen10.jpg",
+        "price": "1.345,62€"
+    },
+    {
+        "title": "Intel Celeron G5900 3.4 GHz",
+        "link": "https://www.pccomponentes.com/intel-celeron-g5900-34-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287927/intel-celeron-g5900-34-ghz.jpg",
+        "price": "50,68€"
+    },
+    {
+        "title": "Intel Celeron G6900 3.4 GHz",
+        "link": "https://www.pccomponentes.com/intel-celeron-g6900-34-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834930/1254-intel-celeron-g6900-34-ghz.jpg",
+        "price": "75,99€"
+    },
+    {
+        "title": "Intel Core Ultra 5 225 3.3/4.9GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-core-ultra-5-225-33-49ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867605/1733-intel-core-ultra-5-225-33-49ghz-box.jpg",
+        "price": "298,99€"
+    },
+    {
+        "title": "Intel Core i3-10100F 3.60 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-10100f-360-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/32/320863/1971-intel-core-i3-10100f-360-ghz.jpg",
+        "price": "65,99€"
+    },
+    {
+        "title": "Intel Core i3-10300 3.7 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-10300-37-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287915/intel-core-i3-10300-37-ghz.jpg",
+        "price": "321,35€"
+    },
+    {
+        "title": "Intel Core i3-10320 3.8 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-10320-38-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287914/intel-core-i3-10320-38-ghz.jpg",
+        "price": "139,41€"
+    },
+    {
+        "title": "Intel Core i3-7100 3.9Ghz BOX",
+        "link": "https://www.pccomponentes.com/intel-core-i3-7100-39ghz-box?refurbished",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/11/114241/intel-core-i3-6100-3-7ghz-box.jpg",
+        "price": "90,07€"
+    },
+    {
+        "title": "Intel Core i3-9100 3.6 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i3-9100-36-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/25/251214/1.jpg",
+        "price": "173,98€"
+    },
+    {
+        "title": "Intel Core i5-10500 3.10 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-10500-310-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287912/intel-core-i5-10500-310-ghz.jpg",
+        "price": "228,52€"
+    },
+    {
+        "title": "Intel Core i5-10600 3.3 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-10600-33-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287910/intel-core-i5-10600-33-ghz.jpg",
+        "price": "165,11€"
+    },
+    {
+        "title": "Intel Core i5-10600K 4.10 GHz Avengers Edition",
+        "link": "https://www.pccomponentes.com/intel-core-i5-10600k-410-ghz-avengers-edition",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/31/314322/1424-intel-core-i5-10600ka-410-ghz.jpg",
+        "price": "272,85€"
+    },
+    {
+        "title": "Intel Core i5-11600K 3.9 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-11600k-39-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362356/1204-intel-core-i5-11600k-39-ghz.jpg",
+        "price": "309,11€"
+    },
+    {
+        "title": "Intel Core i5-11600KF 3.9 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-11600kf-39-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362373/1206-intel-core-i5-11600kf-39-ghz.jpg",
+        "price": "367€"
+    },
+    {
+        "title": "Intel Core i5-12500 3 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-12500-3-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834918/1267-intel-core-i5-12500-46-ghz.jpg",
+        "price": "217,99€"
+    },
+    {
+        "title": "Intel Core i5-9500 3 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i5-9500-3-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/21/216604/1.jpg",
+        "price": "446,78€"
+    },
+    {
+        "title": "Intel Core i7-10700F 2.9GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i7-10700f-29ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287908/intel-core-i7-10700f-29ghz.jpg",
+        "price": "302,08€"
+    },
+    {
+        "title": "Intel Core i9-10900X 3.70 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-10900x-370-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/24/247054/fgdfgas.jpg",
+        "price": "779€"
+    },
+    {
+        "title": "Intel Core i9-10920X 3.50 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-10920x-350-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/24/247052/fgdfgas.jpg",
+        "price": "909€"
+    },
+    {
+        "title": "Intel Core i9-10940X 3.3 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-10940x-33-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/24/247049/fgdfgas.jpg",
+        "price": "1.119€"
+    },
+    {
+        "title": "Intel Core i9-10980XE 3 GHz Extreme Edition",
+        "link": "https://www.pccomponentes.com/intel-core-i9-10980xe-3-ghz-extreme-edition",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/24/247046/intel-core-i9-10980xe-3-ghz-extreme-edition-comprar.jpg",
+        "price": "1.963,10€"
+    },
+    {
+        "title": "Intel Core i9-11900KF 3.5 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-11900kf-35-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362367/1637-intel-core-i9-11900kf-35-ghz.jpg",
+        "price": "490,86€"
+    },
+    {
+        "title": "Intel Core i9-12900 2.4 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-12900-24-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834906/1848-intel-core-i9-12900-51-ghz.jpg",
+        "price": "471,98€"
+    },
+    {
+        "title": "Intel Core i9-12900KS 3.4 GHz",
+        "link": "https://www.pccomponentes.com/intel-core-i9-12900ks-34-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1019/10190896/1236-intel-core-i9-12900ks-55-ghz.jpg",
+        "price": "529€"
+    },
+    {
+        "title": "Intel Core i9-13900KS 2.40 GHz/6.00 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-13900ks-240-ghz-600-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10812794/1844-intel-core-i9-13900ks-240-ghz-600-ghz-box.jpg",
+        "price": "991,99€"
+    },
+    {
+        "title": "Intel Core i9-14900 2.1/5.8 GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-14900-21-58-ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10810678/1583-intel-core-i9-14900-21-58ghz-box.jpg",
+        "price": "628,99€"
+    },
+    {
+        "title": "Intel Core i9-14900F 2.1/5.8GHz Box",
+        "link": "https://www.pccomponentes.com/intel-core-i9-14900f-21-58ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805164/166-intel-core-i9-14900f-21-58ghz-box.jpg",
+        "price": "639€"
+    },
+    {
+        "title": "Intel Pentium 300 3.9GHz",
+        "link": "https://www.pccomponentes.com/intel-pentium-300-39ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805168/161-intel-pentium-300-39ghz.jpg",
+        "price": "111,99€"
+    },
+    {
+        "title": "Intel Pentium Gold G6405 4.1 GHz",
+        "link": "https://www.pccomponentes.com/intel-pentium-gold-g6405-41-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/36/362395/1340-intel-pentium-gold-g6405-41-ghz.jpg",
+        "price": "75€"
+    },
+    {
+        "title": "Intel Pentium Gold G6500 4.10 GHz",
+        "link": "https://www.pccomponentes.com/intel-pentium-gold-g6500-410-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287921/intel-pentium-gold-g6500-410-ghz.jpg",
+        "price": "233,07€"
+    },
+    {
+        "title": "Intel Pentium Gold G6600 4.2 GHz",
+        "link": "https://www.pccomponentes.com/intel-pentium-gold-g6600-42-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/28/287920/intel-pentium-gold-g6600-42-ghz.jpg",
+        "price": "223,49€"
+    },
+    {
+        "title": "Intel Xeon 4216 2.1 GHz 22 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-4216-21-ghz-22-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867384/1685-intel-xeon-4216-21-ghz-22-mb-cache.jpg",
+        "price": "1.147,16€"
+    },
+    {
+        "title": "Intel Xeon 6226R 2.9 GHz 22 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-6226r-29-ghz-22-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867408/1972-intel-xeon-6226r-29-ghz-22-mb-cache.jpg",
+        "price": "1.169,16€"
+    },
+    {
+        "title": "Intel Xeon 6246R 3.4 GHz 35.75 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-6246r-34-ghz-3575-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867383/1111-intel-xeon-6246r-34-ghz-3575-mb-cache.jpg",
+        "price": "2.952€"
+    },
+    {
+        "title": "Intel Xeon E-2324G 3,1 GHz 8 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-e-2324g-31-ghz-8-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867333/191-intel-xeon-e-2324g-31-ghz-8-mb-smart-cache.jpg",
+        "price": "448,99€"
+    },
+    {
+        "title": "Intel Xeon E-2336 2.9GHz/4.8GHz",
+        "link": "https://www.pccomponentes.com/intel-xeon-e-2336-29ghz-48ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1066/10660789/1270-intel-xeon-e-2336-29ghz-48ghz.jpg",
+        "price": "411,29€"
+    },
+    {
+        "title": "Intel Xeon E-2378G 2.8 GHz 16 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-e-2378g-28-ghz-16-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867378/1862-intel-xeon-e-2378g-28-ghz-16-mb-smart-cache.jpg",
+        "price": "704,02€"
+    },
+    {
+        "title": "Intel Xeon E-2388G 3.2 GHz 16 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-e-2388g-32-ghz-16-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867386/1386-intel-xeon-e-2388g-32-ghz-16-mb-smart-cache.jpg",
+        "price": "947,99€"
+    },
+    {
+        "title": "Intel Xeon E-2434 3.4/5GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-e-2434-34-5ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848255/125-intel-xeon-e-2434-34-5ghz-box.jpg",
+        "price": "370,99€"
+    },
+    {
+        "title": "Intel Xeon E-2436 2.9/5GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-e-2436-29-5ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848245/1205-intel-xeon-e-2436-29-5ghz-box.jpg",
+        "price": "427,99€"
+    },
+    {
+        "title": "Intel Xeon E5-2609 v3 Procesador 1,9 GHz",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-e5-2609-v3-procesador-19-ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10865159/1990-intel-xeon-e5-2609-v3-procesador-19-ghz.jpg",
+        "price": "29€"
+    },
+    {
+        "title": "Intel Xeon E5-2640V3 2.6 GHz 20 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-e5-2640v3-26-ghz-20-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867388/1669-intel-xeon-e5-2640v3-26-ghz-20-mb-smart-cache.jpg",
+        "price": "147,28€"
+    },
+    {
+        "title": "Intel Xeon Gold 5416S 2GHz/4GHz",
+        "link": "https://www.pccomponentes.com/intel-xeon-gold-5416s-2ghz-4ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1070/10709496/1206-intel-xeon-gold-5416s-2ghz-4ghz.jpg",
+        "price": "1.346,63€"
+    },
+    {
+        "title": "Intel Xeon Gold 5520+ 2.2 GHz 52.5 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-gold-5520-22-ghz-525-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867407/134-intel-xeon-gold-5520-22-ghz-525-mb-cache.jpg",
+        "price": "2.669,06€"
+    },
+    {
+        "title": "Intel Xeon Gold 6248R 3GHz/4GHz",
+        "link": "https://www.pccomponentes.com/intel-xeon-gold-6248r-3ghz-4ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10796095/1612-intel-xeon-gold-6248r-3ghz-4ghz.jpg",
+        "price": "2.669,01€"
+    },
+    {
+        "title": "Intel Xeon Gold 6346 3.1 GHz 36 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-gold-6346-31-ghz-36-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867377/1343-intel-xeon-gold-6346-31-ghz-36-mb-cache.jpg",
+        "price": "2.223,96€"
+    },
+    {
+        "title": "Intel Xeon Gold 6348 2.6 GHz 42 MB",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-gold-6348-26-ghz-42-mb",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867335/1508-intel-xeon-gold-6348-26-ghz-42-mb.jpg",
+        "price": "3.078,99€"
+    },
+    {
+        "title": "Intel Xeon Silver 4208 2.1GHz/3.2GHz Kit de Procesador para HPE ProLiant ML350 Gen10",
+        "link": "https://www.pccomponentes.com/intel-xeon-silver-4208-21ghz-32ghz-kit-de-procesador-para-hpe-proliant-ml350-gen10",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1066/10660779/1725-intel-xeon-silver-4208-21ghz-32ghz-kit-de-procesador-para-hpe-proliant-ml350-gen10.jpg",
+        "price": "1.089€"
+    },
+    {
+        "title": "Intel Xeon Silver 4210R 2.4GHz/3.2GHz para Servidores Dell PowerEdge",
+        "link": "https://www.pccomponentes.com/intel-xeon-silver-4210r-24ghz-32ghz-para-servidores-dell-poweredge",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1066/10660784/1792-intel-xeon-silver-4210r-24ghz-32ghz-para-servidores-dell-poweredge.jpg",
+        "price": "876,67€"
+    },
+    {
+        "title": "Intel Xeon Silver 4314 2.4/3.4GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-silver-4314-24-34ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848249/1702-intel-xeon-silver-4314-24-34ghz-box-comprar.jpg",
+        "price": "939€"
+    },
+    {
+        "title": "Intel Xeon Silver 4316 2.3 GHz 30 MB",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-silver-4316-23-ghz-30-mb",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867334/1856-intel-xeon-silver-4316-23-ghz-30-mb.jpg",
+        "price": "1.123,18€"
+    },
+    {
+        "title": "Intel Xeon Silver 4410Y 2/3.9GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-silver-4410y-2-39ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848251/1392-intel-xeon-silver-4410y-2-39ghz-box.jpg",
+        "price": "739€"
+    },
+    {
+        "title": "Intel Xeon Silver 4410Y 2GHz/3.9GHz",
+        "link": "https://www.pccomponentes.com/intel-xeon-silver-4410y-2ghz-39ghz",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1070/10709502/1842-intel-xeon-silver-4410y-2ghz-39ghz.jpg",
+        "price": "671€"
+    },
+    {
+        "title": "Intel Xeon Silver 4509Y 2.6 GHz 22.5 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-silver-4509y-26-ghz-225-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867375/1707-intel-xeon-silver-4509y-26-ghz-225-mb-cache.jpg",
+        "price": "771,64€"
+    },
+    {
+        "title": "Intel Xeon W-2223 3.6 GHz 8.25 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w-2223-36-ghz-825-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867380/1248-intel-xeon-w-2223-36-ghz-825-mb-cache.jpg",
+        "price": "468,30€"
+    },
+    {
+        "title": "Intel Xeon W-2255 3.7 GHz 19.25 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w-2255-37-ghz-1925-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867411/1209-intel-xeon-w-2255-37-ghz-1925-mb-cache.jpg",
+        "price": "1.145,64€"
+    },
+    {
+        "title": "Intel Xeon W-2265 3.5 GHz 19.25 MB",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w-2265-35-ghz-1925-mb",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867404/1370-intel-xeon-w-2265-35-ghz-1925-mb.jpg",
+        "price": "1.619,99€"
+    },
+    {
+        "title": "Intel Xeon W-2275 3.3 GHz 19.25 MB Caché",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w-2275-33-ghz-1925-mb-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867403/1234-intel-xeon-w-2275-33-ghz-1925-mb-cache.jpg",
+        "price": "1.760,52€"
+    },
+    {
+        "title": "Intel Xeon W5-2445 3.1 GHz 26.25 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w5-2445-31-ghz-2625-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867390/1885-intel-xeon-w5-2445-31-ghz-2625-mb-smart-cache.jpg",
+        "price": "1.278€"
+    },
+    {
+        "title": "Intel Xeon W5-3435X 3.1/4.7GHz Box",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w5-3435x-31-47ghz-box",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848717/1630-intel-xeon-w5-3435x-31-47ghz-box.jpg",
+        "price": "1.899€"
+    },
+    {
+        "title": "Intel Xeon W7-2495X 2.5 GHz 45 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w7-2495x-25-ghz-45-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867332/1392-intel-xeon-w7-2495x-25-ghz-45-mb-smart-cache.jpg",
+        "price": "3.610,34€"
+    },
+    {
+        "title": "Intel Xeon W7-3445 2.6 GHz 52.5 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w7-3445-26-ghz-525-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867331/1639-intel-xeon-w7-3445-26-ghz-525-mb-smart-cache.jpg",
+        "price": "3.127,93€"
+    },
+    {
+        "title": "Intel Xeon w5-3435X 3.1 GHz 45 MB Smart Cache",
+        "link": "https://www.pccomponentes.com/procesador-intel-xeon-w5-3435x-31-ghz-45-mb-smart-cache",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867392/1269-intel-xeon-w5-3435x-31-ghz-45-mb-smart-cache.jpg",
+        "price": "2.720,93€"
+    },
+    {
+        "title": "Lenovo Intel Xeon Silver 2.1 GHz para Servidor ThinkSystem",
+        "link": "https://www.pccomponentes.com/lenovo-intel-xeon-silver-21-ghz-para-servidor-thinksystem",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/41/419049/133-lenovo-intel-xeon-silver-21-ghz-para-servidor-thinksystem.jpg",
+        "price": "1.121,82€"
+    },
+    {
+        "title": "Lenovo Kit Intel Xeon Silver 4208 2.2 GHz para Thinksystem SR550/SR590/SR650",
+        "link": "https://www.pccomponentes.com/lenovo-kit-intel-xeon-silver-4208-22-ghz-para-thinksystem-sr550-sr590-sr650",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/38/386451/1233-lenovo-kit-intel-xeon-silver-4208-22-ghz-para-thinksystem-sr550-sr590-sr650.jpg",
+        "price": "1.092€"
+    },
+    {
+        "title": "Lenovo Kit Intel Xeon Silver 4210R 2.4 GHz para ThinkSystem",
+        "link": "https://www.pccomponentes.com/lenovo-kit-intel-xeon-silver-4210r-24-ghz-para-thinksystem",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/38/386441/1127-lenovo-kit-intel-xeon-silver-4210r-24-ghz-para-thinksystem.jpg",
+        "price": "1.236,99€"
+    }
+]

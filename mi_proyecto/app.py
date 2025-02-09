@@ -5,6 +5,7 @@ import json
 from flask_cors import CORS
 import subprocess
 from fastapi import FastAPI, Query  # Asegúrate de importar Query
+import random
 
 app = Flask(__name__)
 CORS(app)  # Permite que el frontend Angular acceda a la API
@@ -132,5 +133,80 @@ def get_cinecalidad():
     response = load_and_paginate_data("mi_proyecto/results/cinecalidad.json", search, page, per_page)
     return jsonify(response)      
 
+
+@app.route("/get_products", methods=["GET"])
+def get_products():
+    try:
+        # Fusionar productos de pccomponentes y wipoid
+        all_products = merge_products("mi_proyecto/results/pccomponentes/portatiles-gaming.json", "mi_proyecto/results/wipoid/ordenadores-ordenadores-portatiles.json")
+
+        # Obtener parámetros de búsqueda y paginación de la solicitud
+        search = request.args.get("search")
+        page = request.args.get("page", default=1, type=int)
+        per_page = request.args.get("per_page", default=10, type=int)
+
+        # Paginar los productos fusionados
+        response = load_and_paginate_data2(all_products, search, page, per_page)
+
+        return jsonify(response)
+
+    except Exception as e:
+        return {"error": str(e)}
+
+# Función para cargar y fusionar los productos de los archivos JSON
+# Función para cargar y alternar los productos de los dos archivos JSON
+def merge_products(pccomponentes_file, wipoid_file):
+    try:
+        # Cargar datos de ambos archivos JSON
+        with open(pccomponentes_file, "r", encoding="utf-8") as file1:
+            pccomponentes_data = json.load(file1)
+
+        with open(wipoid_file, "r", encoding="utf-8") as file2:
+            wipoid_data = json.load(file2)
+
+        # Alternar los productos de pccomponentes y wipoid
+        merged_products = []
+        min_len = min(len(pccomponentes_data), len(wipoid_data))
+
+        # Alternar entre ambos, asegurando que se muestre uno de cada ecommerce
+        for i in range(min_len):
+            merged_products.append(pccomponentes_data[i])
+            merged_products.append(wipoid_data[i])
+
+        # Si hay productos sobrantes de alguno de los dos, los añadimos
+        merged_products.extend(pccomponentes_data[min_len:])
+        merged_products.extend(wipoid_data[min_len:])
+        
+        return merged_products
+    except Exception as e:
+        return {"error": str(e)}
+
+
+# Función para paginar los datos
+def load_and_paginate_data2(data, search, page, per_page, order='asc'):
+    # Filtrado por búsqueda (si es necesario)
+    if search:
+        search = search.lower()
+        data = [item for item in data if search in item.get("title", "").lower()]
+
+    # Paginación
+    start = (page - 1) * per_page
+    end = start + per_page
+    
+    paginated_data = data[start:end]
+    # (Opcional) Filtrar los productos si es necesario, por ejemplo, por precio
+    paginated_data = sorted(paginated_data, key=lambda x: float(x['price']
+                                            .replace('€', '')  # Eliminar el símbolo de euro
+                                            .replace('.', '')   # Eliminar los puntos (miles)
+                                            .replace(',', '.')  # Reemplazar la coma por un punto decimal
+                                            ), reverse=(order == 'desc')  # Si 'desc' se pasa, ordena de forma descendente
+                )
+    return {
+        "total": len(data),
+        "page": page,
+        "per_page": per_page,
+        "total_pages": (len(data) // per_page) + (1 if len(data) % per_page > 0 else 0),
+        "data": paginated_data
+    }       
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)

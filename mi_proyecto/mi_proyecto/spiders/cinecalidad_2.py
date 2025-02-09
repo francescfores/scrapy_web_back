@@ -3,7 +3,7 @@ import json
 
 class MiSpider2(scrapy.Spider):
     name = 'cinecalidad2'
-    start_urls = ['https://cinecalidad2s.ec/']
+    start_urls = ['https://cinecalidad.ec/']
 
     def __init__(self, *args, **kwargs):
         super(MiSpider2, self).__init__(*args, **kwargs)
@@ -15,9 +15,9 @@ class MiSpider2(scrapy.Spider):
     def start_requests(self):
         for url in self.start_urls:
             if self.movie_name:
-                url = f"https://cinecalidad2s.ec/?s={self.movie_name}"
+                url = f"https://cinecalidad.ec/?s={self.movie_name}"
             if self.category:
-                url = f"https://cinecalidad2s.ec/{self.category}"
+                url = f"https://cinecalidad.ec/{self.category}"
 
             yield scrapy.Request(
                 url,

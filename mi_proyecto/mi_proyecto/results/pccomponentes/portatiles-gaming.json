@@ -36,16 +36,16 @@
         "price": "949€"
     },
     {
-        "title": "Acer Gaming Nitro V 15 ANV15-41 AMD Ryzen 7 7735HS/16GB/1TB SSD/RTX 4050/15.6\"",
-        "link": "https://www.pccomponentes.com/portatil-acer-gaming-nitro-v-15-anv15-41-amd-ryzen-7-7735hs-16gb-1tb-ssd-rtx-4050-156",
-        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848917/1687-acer-nitro-v-15-anv15-41-amd-ryzen-7-7735hs-16gb-1tb-ssd-rtx-4050-156.jpg",
-        "price": "849€"
-    },
-    {
         "title": "ASUS TUF Gaming F17 FX707VI-HX040 Intel Core i7-13620H/32GB/1TB SSD/RTX 4070/17.3''",
         "link": "https://www.pccomponentes.com/asus-tuf-gaming-f17-fx707vi-hx040-intel-core-i7-13620h-32gb-1tb-ssd-rtx-4070-173",
         "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10811707/1635-asus-tuf-gaming-f17-fx707vi-hx040-intel-core-i7-13620h-32gb-1tb-ssd-rtx-4070-173.jpg",
         "price": "1.399€"
+    },
+    {
+        "title": "Acer Gaming Nitro V 15 ANV15-41 AMD Ryzen 7 7735HS/16GB/1TB SSD/RTX 4050/15.6\"",
+        "link": "https://www.pccomponentes.com/portatil-acer-gaming-nitro-v-15-anv15-41-amd-ryzen-7-7735hs-16gb-1tb-ssd-rtx-4050-156",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848917/1687-acer-nitro-v-15-anv15-41-amd-ryzen-7-7735hs-16gb-1tb-ssd-rtx-4050-156.jpg",
+        "price": "849€"
     },
     {
         "title": "MSI Thin 15 B12UC-1839XES Intel Core i7-12650H/16GB/1TB SSD/RTX 3050/15.6\"",
@@ -84,28 +84,28 @@
         "price": "1.899€"
     },
     {
-        "title": "HP Victus 16-s0011ns AMD Ryzen 7 7840HS/32GB/1TB SSD/RTX 4060/16.1\"",
-        "link": "https://www.pccomponentes.com/hp-victus-16-s0011ns-amd-ryzen-7-7840hs-32gb-1tb-ssd-rtx-4060-161",
-        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10733294/1394-hp-victus-16-s0011ns-amd-ryzen-7-7840hs-32gb-1tb-ssd-rtx-4060-161.jpg",
-        "price": "1.129€"
-    },
-    {
         "title": "ASUS TUF Gaming A15 FA507NVR-LP010W AMD Ryzen 7 7435HS/16GB/1TB SSD/RTX 4060/15.6\"",
         "link": "https://www.pccomponentes.com/portatil-asus-tuf-gaming-a15-fa507nvr-lp010w-amd-ryzen-7-7435hs-16gb-1tb-ssd-rtx-4060-156",
         "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10858538/1506-asus-tuf-gaming-a15-fa507nvr-lp010w-amd-ryzen-7-7435hs-16gb-1tb-ssd-rtx-4060-156-921a2d47-a9b6-41db-bbcd-8573abf01eeb.jpg",
         "price": "1.099€"
     },
     {
-        "title": "MSI Katana 15 B13VFK-1854XES Intel Core i7-13700H/16GB/1TB SSD/RTX 4060/15.6\"",
-        "link": "https://www.pccomponentes.com/msi-katana-15-b13vfk-1854xes-intel-core-i7-13700h-16gb-1tb-ssd-rtx-4060-156",
-        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10810270/1703-msi-katana-15-b13vfk-1854xes-intel-core-i7-13700h-16gb-1tb-ssd-rtx-4060-156-fe60fb00-dc49-4c2d-be95-adde65888774.jpg",
-        "price": "1.098,99€"
+        "title": "HP Victus 16-s0011ns AMD Ryzen 7 7840HS/32GB/1TB SSD/RTX 4060/16.1\"",
+        "link": "https://www.pccomponentes.com/hp-victus-16-s0011ns-amd-ryzen-7-7840hs-32gb-1tb-ssd-rtx-4060-161",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10733294/1394-hp-victus-16-s0011ns-amd-ryzen-7-7840hs-32gb-1tb-ssd-rtx-4060-161.jpg",
+        "price": "1.129€"
     },
     {
         "title": "MSI Sword 16 HX B14VGKG-878XES Intel Core i7-14650HX/32GB/1TB SSD/RTX 4070/16\"",
         "link": "https://www.pccomponentes.com/portatil-msi-sword-16-hx-b14vgkg-878xes-intel-core-i7-14650hx-32gb-1tb-ssd-rtx-4070-16",
         "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10858071/1112-msi-sword-16-hx-b14vgkg-878xes-intel-core-i7-14650hx-32gb-1tb-ssd-rtx-4070-16.jpg",
         "price": "1.449€"
+    },
+    {
+        "title": "MSI Katana 15 B13VFK-1854XES Intel Core i7-13700H/16GB/1TB SSD/RTX 4060/15.6\"",
+        "link": "https://www.pccomponentes.com/msi-katana-15-b13vfk-1854xes-intel-core-i7-13700h-16gb-1tb-ssd-rtx-4060-156",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10810270/1703-msi-katana-15-b13vfk-1854xes-intel-core-i7-13700h-16gb-1tb-ssd-rtx-4060-156-fe60fb00-dc49-4c2d-be95-adde65888774.jpg",
+        "price": "1.098,99€"
     },
     {
         "title": "MSI Cyborg 15 A12UCX-657XES Intel Core i7-12650H/16GB/512GB SSD/RTX 2050/15.6\"",
@@ -126,16 +126,16 @@
         "price": "1.299€"
     },
     {
-        "title": "Acer Gaming Nitro V 16 ANV16-41 AMD Ryzen 7 8845HS/32GB/1TB SSD/RTX 4060/16\"",
-        "link": "https://www.pccomponentes.com/portatil-acer-gaming-nitro-v-16-anv16-41-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4060-16",
-        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848918/128-acer-nitro-v-16-anv16-41-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4060-16-eae55101-bb16-4c75-8b37-90a8e4c376fe.jpg",
-        "price": "1.098,99€"
-    },
-    {
         "title": "HP Victus 16-r1001ns Intel Core i7-14650HX/32GB/1TB SSD/RTX 4060/16.1\"",
         "link": "https://www.pccomponentes.com/hp-victus-16-r1001ns-intel-core-i7-14650hx-32gb-1tb-ssd-rtx-4060-161",
         "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10815589/1234-hp-victus-16-r1001ns-intel-core-i7-14650hx-32gb-1tb-ssd-rtx-4060-161.jpg",
         "price": "1.249€"
+    },
+    {
+        "title": "Acer Gaming Nitro V 16 ANV16-41 AMD Ryzen 7 8845HS/32GB/1TB SSD/RTX 4060/16\"",
+        "link": "https://www.pccomponentes.com/portatil-acer-gaming-nitro-v-16-anv16-41-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4060-16",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848918/128-acer-nitro-v-16-anv16-41-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4060-16-eae55101-bb16-4c75-8b37-90a8e4c376fe.jpg",
+        "price": "1.098,99€"
     },
     {
         "title": "MSI Cyborg 15 A13VF-828XES Intel Core i7-13620H/16GB/512GB SSD/RTX 4060/15.6\"",
@@ -168,6 +168,12 @@
         "price": "949€"
     },
     {
+        "title": "Acer Gaming Predator Helios Neo 16 PHN16-72 Intel Core i9-14900HX/32GB/1TB SSD/RTX 4070/16''",
+        "link": "https://www.pccomponentes.com/portatil-acer-gaming-predator-helios-neo-16-phn16-72-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-4070-16",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10825990/1982-acer-predator-helios-neo-16-phn16-72-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-4070-16-foto.jpg",
+        "price": "1.499€"
+    },
+    {
         "title": "Lenovo LOQ Gen 7 15ARP9 AMD Ryzen 7 7435HS/24GB/1TB SSD/RTX 4060/15.6\"",
         "link": "https://www.pccomponentes.com/portatil-lenovo-loq-gen-7-15arp9-amd-ryzen-7-7435hs-24gb-1tb-ssd-rtx-4060-156",
         "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10847197/1844-lenovo-loq-gen-7-15arp9-amd-ryzen-7-7435hs-24gb-1tb-ssd-rtx-4060-156.jpg",
@@ -178,12 +184,6 @@
         "link": "https://www.pccomponentes.com/hp-victus-15-fb1002ns-amd-ryzen-5-7535hs-16gb-512gb-ssd-rtx-2050-156",
         "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10815587/1309-hp-victus-15-fb1002ns-amd-ryzen-5-7535hs-16gb-512gb-ssd-rtx-2050-156.jpg",
         "price": "628,99€"
-    },
-    {
-        "title": "Acer Gaming Predator Helios Neo 16 PHN16-72 Intel Core i9-14900HX/32GB/1TB SSD/RTX 4070/16''",
-        "link": "https://www.pccomponentes.com/portatil-acer-gaming-predator-helios-neo-16-phn16-72-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-4070-16",
-        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10825990/1982-acer-predator-helios-neo-16-phn16-72-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-4070-16-foto.jpg",
-        "price": "1.499€"
     },
     {
         "title": "HP Victus Gaming 16-r0036ns Intel Core i7-13620H/32GB/1TB SSD/RTX4060/16.1\" +Regalo HyperX Cloud III",
@@ -204,16 +204,16 @@
         "price": "2.588,17€"
     },
     {
-        "title": "HP OMEN 17-db0004ns AMD Ryzen 7 8845HS/32GB/1TB SSD/RTX 4070/17.3\"",
-        "link": "https://www.pccomponentes.com/hp-omen-17-db0004ns-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4070-173",
-        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10828810/1675-hp-omen-17-db0004ns-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4070-173.jpg",
-        "price": "1.499€"
-    },
-    {
         "title": "Acer Gaming Aspire 5 A515-58GM Intel Core i5-1335U/16GB/512GB SSD/RTX 2050/15.6\"",
         "link": "https://www.pccomponentes.com/portatil-acer-gaming-aspire-5-a515-58gm-intel-core-i5-1335u-16gb-512gb-ssd-rtx-2050-156",
         "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10815693/1987-acer-aspire-5-15-a515-58gm-intel-core-i5-1335u-16gb-512gb-ssd-rtx-2050-156.jpg",
         "price": "599€"
+    },
+    {
+        "title": "HP OMEN 17-db0004ns AMD Ryzen 7 8845HS/32GB/1TB SSD/RTX 4070/17.3\"",
+        "link": "https://www.pccomponentes.com/hp-omen-17-db0004ns-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4070-173",
+        "img": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10828810/1675-hp-omen-17-db0004ns-amd-ryzen-7-8845hs-32gb-1tb-ssd-rtx-4070-173.jpg",
+        "price": "1.499€"
     },
     {
         "title": "MSI Katana A17 AI B8VG-874XES AMD Ryzen 9 8945HS/32GB/1TB SSD/RTX 4070/17.3\"",
